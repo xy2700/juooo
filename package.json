@@ -11,7 +11,7 @@
     "history": "^4.9.0",
     "http-proxy-middleware": "^0.19.1",
     "immutable": "^4.0.0-rc.12",
-    "jquery": "1.11.1",
+    "jquery": "3.5.0",
     "lib-flexible": "^0.3.2",
     "lodash": "^4.17.11",
     "mock": "^0.1.1",
