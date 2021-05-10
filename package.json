@@ -13,7 +13,7 @@
     "immutable": "^4.0.0-rc.12",
     "jquery": "1.11.1",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mock": "^0.1.1",
     "mockjs": "^1.0.1-beta3",
     "react": "^16.8.6",
